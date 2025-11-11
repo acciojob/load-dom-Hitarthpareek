@@ -1,2 +1,2 @@
 //your JS code here. If required.
- window.addEventListener("load",()=> { console.log("DOM load success"); } )
+ window.addEventListener("load",()=> { document.body.textContent="DOM load success" } )
